@@ -2,7 +2,9 @@
 My name is Lim Wei Zhin and I am currently computer science fresh grad.
 
 🌱 I’m currently working on my way to become fullstack software developer
+
 💻 Competent in Java, Scala, Python, and JavaScript
+
 📫 For personal/business enquires, please contact: weizhinlim@gmail.com
 <!--
 **arjenlim/arjenlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
