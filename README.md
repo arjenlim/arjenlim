@@ -1,9 +1,11 @@
 ## Good day
 My name is Lim Wei Zhin and I am a computer science fresh grad.
 
-🌱 I’m currently working on my way to become fullstack software developer
+🔭 I’m currently working on my way to become fullstack software developer
 
-💻 Competent in Java, Scala, Python, and JavaScript
+💻 Competent in Java, Scala, Python, HTML.
+
+🌱 I'm currently learning Flutter, Nodejs
 
 📫 For personal/business enquires, please contact: weizhinlim@gmail.com
 <!--
