@@ -1,5 +1,5 @@
 ## Good day
-My name is Lim Wei Zhin and I am currently computer science fresh grad.
+My name is Lim Wei Zhin and I am a computer science fresh grad.
 
 🌱 I’m currently working on my way to become fullstack software developer
 
